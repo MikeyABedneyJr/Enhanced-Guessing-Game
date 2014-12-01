@@ -1,0 +1,13 @@
+h1 {
+  font-family:arial;
+}
+
+body {
+  background-image: url('background.jpg');
+  repeat: no-repeat; 
+}
+
+form {
+  font-family: Verdana, Arial, Sans-Serif;
+  display: inline-block;
+}
